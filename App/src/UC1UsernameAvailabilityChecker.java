@@ -1,6 +1,6 @@
 import java.util.HashMap;
 import java.util.Scanner;
-public class Problem1UsernameAvailabilityChecker{
+public class UC1UsernameAvailabilityChecker{
     public static void main(String[] args){
         HashMap<String,Integer> usernames=new HashMap<>();
         usernames.put("john_doe",1);
